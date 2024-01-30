@@ -10,3 +10,6 @@
 
 
 ### Altiq Hospitality Insghit [[link])](https://app.powerbi.com/links/tai7_795eb?ctid=34bd8bed-2ac1-41ae-9f08-4e0a3f11706c&pbi_source=linkShare)
+
+
+![App Screenshot](https://github.com/aarsav/power-Bi-dashboard/blob/main/Visuals/hospitality.png?text=Project+Screenshot+Here)
