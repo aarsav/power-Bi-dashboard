@@ -13,3 +13,26 @@
 
 
 ![App Screenshot](https://github.com/aarsav/power-Bi-dashboard/blob/main/Visuals/hospitality.png?text=Project+Screenshot+Here)
+
+
+### Super Store Sales [[link])](https://app.powerbi.com/links/KHGUVr1NLa?ctid=34bd8bed-2ac1-41ae-9f08-4e0a3f11706c&pbi_source=linkShare&bookmarkGuid=976e6f1d-a249-4b6b-b5db-dbb1a535495fe)
+
+
+![App Screenshot](https://github.com/aarsav/power-Bi-dashboard/blob/main/Visuals/SuperStore1.png?text=Project+Screenshot+Here)
+
+![App Screenshot](https://github.com/aarsav/power-Bi-dashboard/blob/main/Visuals/SuperStore2.png?text=Project+Screenshot+Here)
+
+### Altiq Sales Insghit [[link])](https://app.powerbi.com/links/EVIphnUzIL?ctid=34bd8bed-2ac1-41ae-9f08-4e0a3f11706c&pbi_source=linkShare)
+
+
+![App Screenshot](https://github.com/aarsav/power-Bi-dashboard/blob/main/Visuals/SalesInsight.png?text=Project+Screenshot+Here)
+
+### Hr Analytics [[link])](https://app.powerbi.com/links/5YRay4FHyW?ctid=34bd8bed-2ac1-41ae-9f08-4e0a3f11706c&pbi_source=linkShare)
+
+
+![App Screenshot](https://github.com/aarsav/power-Bi-dashboard/blob/main/Visuals/HrAnalytics.png?text=Project+Screenshot+Here)
+
+### Ecommerce Insghit [[link])](https://app.powerbi.com/links/glHq7djgzp?ctid=34bd8bed-2ac1-41ae-9f08-4e0a3f11706c&pbi_source=linkShare)
+
+
+![App Screenshot](https://github.com/aarsav/power-Bi-dashboard/blob/main/Visuals/Ecommerce.png?text=Project+Screenshot+Here)
