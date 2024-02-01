@@ -7,7 +7,7 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/aarsav)
 
 # Portfolio PowerBi Projects
-- [Altiq Hospitality Insghit](#Altiq Hospitality Insghit)
+- [Altiq Hospitality Insghit](#Altiq-Hospitality-Insghit)
 - [Problem Statement and Data Set](#problem-statement-and-data-set)
 - [Dashboard Mockup and Discussion](#dashboard-mockup-and-discussion)
 - [Data Modeling and Visualization](#data-modeling-and-visualization)
