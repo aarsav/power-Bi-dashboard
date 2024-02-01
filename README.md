@@ -7,7 +7,7 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/aarsav)
 
 # Portfolio PowerBi Projects
-- [Altiq Hospitality Insghit](#Altiq-Hospitality-Insghit)
+- [Altiq Hospitality Insghit](##Altiq-Hospitality-Insghit)
 - [Super Store Sales](##Super-Store-Sales)
 - [Dashboard Mockup and Discussion](#dashboard-mockup-and-discussion)
 - [Data Modeling and Visualization](#data-modeling-and-visualization)
@@ -33,7 +33,7 @@ In conclusion, this project provides valuable insights into the potential benefi
 ![App Screenshot](https://github.com/aarsav/power-Bi-dashboard/blob/main/Visuals/hospitality.png?text=Project+Screenshot+Here)
 
 
-### Super Store Sales [[link])](https://app.powerbi.com/links/KHGUVr1NLa?ctid=34bd8bed-2ac1-41ae-9f08-4e0a3f11706c&pbi_source=linkShare&bookmarkGuid=976e6f1d-a249-4b6b-b5db-dbb1a535495fe)
+## Super Store Sales [[link])](https://app.powerbi.com/links/KHGUVr1NLa?ctid=34bd8bed-2ac1-41ae-9f08-4e0a3f11706c&pbi_source=linkShare&bookmarkGuid=976e6f1d-a249-4b6b-b5db-dbb1a535495fe)
 
 
 ![App Screenshot](https://github.com/aarsav/power-Bi-dashboard/blob/main/Visuals/SuperStore1.png?text=Project+Screenshot+Here)
