@@ -7,11 +7,15 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/aarsav)
 
 # Portfolio PowerBi Projects
+- [Altiq Hospitality Insghit](#Altiq Hospitality Insghit)
+- [Problem Statement and Data Set](#problem-statement-and-data-set)
+- [Dashboard Mockup and Discussion](#dashboard-mockup-and-discussion)
+- [Data Modeling and Visualization](#data-modeling-and-visualization)
+- [Conclusion](#conclusion)
 
+## Altiq Hospitality Insghit [[link])](https://app.powerbi.com/links/tai7_795eb?ctid=34bd8bed-2ac1-41ae-9f08-4e0a3f11706c&pbi_source=linkShare)
 
-### Altiq Hospitality Insghit [[link])](https://app.powerbi.com/links/tai7_795eb?ctid=34bd8bed-2ac1-41ae-9f08-4e0a3f11706c&pbi_source=linkShare)
-
-## Data Analytics in the Hospitality Domain
+### Data Analytics in the Hospitality Domain
 
 This project is a real-life data analytics project in the hospitality domain, focusing on generating revenue insights for a fictional company called Lake Grants, which operates multiple 5-star hotels across India. The project involves the use of Power BI to build a dashboard that can provide valuable insights for the management team.
 
