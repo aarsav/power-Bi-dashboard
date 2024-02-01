@@ -14,7 +14,7 @@
 - [Conclusion](#conclusion)
 
 ## Altiq Hospitality Insghit 
-[[View and Intract])](https://app.powerbi.com/links/tai7_795eb?ctid=34bd8bed-2ac1-41ae-9f08-4e0a3f11706c&pbi_source=linkShare)
+[View and Intract](https://app.powerbi.com/links/tai7_795eb?ctid=34bd8bed-2ac1-41ae-9f08-4e0a3f11706c&pbi_source=linkShare)
 
 ### Data Analytics in the Hospitality Domain
 
@@ -35,7 +35,7 @@ In conclusion, this project provides valuable insights into the potential benefi
 
 
 ## Super Store Sales 
-[[View and Intract])](https://app.powerbi.com/links/KHGUVr1NLa?ctid=34bd8bed-2ac1-41ae-9f08-4e0a3f11706c&pbi_source=linkShare&bookmarkGuid=976e6f1d-a249-4b6b-b5db-dbb1a535495fe)
+[View and Intract](https://app.powerbi.com/links/KHGUVr1NLa?ctid=34bd8bed-2ac1-41ae-9f08-4e0a3f11706c&pbi_source=linkShare&bookmarkGuid=976e6f1d-a249-4b6b-b5db-dbb1a535495fe)
 
 
 ![App Screenshot](https://github.com/aarsav/power-Bi-dashboard/blob/main/Visuals/SuperStore1.png?text=Project+Screenshot+Here)
