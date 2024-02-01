@@ -11,7 +11,21 @@
 
 ### Altiq Hospitality Insghit [[link])](https://app.powerbi.com/links/tai7_795eb?ctid=34bd8bed-2ac1-41ae-9f08-4e0a3f11706c&pbi_source=linkShare)
 
+## Data Analytics in the Hospitality Domain
 
+This project is a real-life data analytics project in the hospitality domain, focusing on generating revenue insights for a fictional company called Lake Grants, which operates multiple 5-star hotels across India. The project involves the use of Power BI to build a dashboard that can provide valuable insights for the management team.
+
+### Problem Statement and Data Set
+The primary objective of this project is to create a dashboard that can generate revenue insights for Lake Grants, a company facing stiff competition from other hotels. The data set used in this project is available for download from codebasics.io and includes various files such as hotel, room, booking, aggregated booking data, and metric lists. The data set mimics real-life scenarios and contains key metrics and concepts related to the hotel industry, such as revenue per available room (RevPAR), average daily rate (ADR), occupancy percentage, and realization.
+
+### Dashboard Mockup and Discussion
+The dashboard mockup includes different visuals and key performance indicators (KPIs) related to revenue, occupancy, and weekly trends. The mockup was discussed with a domain expert, Abhishek Anand, a revenue manager at Oyo rooms, who provided valuable feedback and suggested additional key metrics to be included in the dashboard, such as RevPAR, ADR, and sellable room nights (SRN).
+
+### Data Modeling and Visualization
+The project involves data modeling, including the creation of relationships between different data tables and the use of filters and slicers to visualize the data. The importance of dynamic pricing strategies based on the analysis of the dashboard data is also discussed, highlighting the opportunities for the fictional company to optimize its pricing strategies.
+
+### Conclusion
+In conclusion, this project provides valuable insights into the potential benefits of adopting dynamic pricing strategies in the hospitality industry. The dashboard created through this project can serve as a powerful tool for Lake Grants to make informed business decisions and stay competitive in the market.
 ![App Screenshot](https://github.com/aarsav/power-Bi-dashboard/blob/main/Visuals/hospitality.png?text=Project+Screenshot+Here)
 
 
