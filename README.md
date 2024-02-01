@@ -8,7 +8,7 @@
 
 # Portfolio PowerBi Projects
 - [Altiq Hospitality Insghit](#Altiq-Hospitality-Insghit)
-- [Super Store Sales](#Super-Store-Sales)
+- [Super Store Sales](##Super-Store-Sales)
 - [Dashboard Mockup and Discussion](#dashboard-mockup-and-discussion)
 - [Data Modeling and Visualization](#data-modeling-and-visualization)
 - [Conclusion](#conclusion)
