@@ -36,7 +36,7 @@ In conclusion, this project provides valuable insights into the potential benefi
 
 ## Altiq Sales Insghit 
 [View and Intract](https://app.powerbi.com/links/EVIphnUzIL?ctid=34bd8bed-2ac1-41ae-9f08-4e0a3f11706c&pbi_source=linkShare)
-## Power BI Project for Beginners: Sales Insights Data Analysis
+##Sales Insights Data Analysis
 
 ### Overview
 This project, based on a Codebasics YouTube playlist, demonstrates the use of Power BI for data analysis. Atliq Hardware, a computer hardware company, aims to address sales performance challenges by creating an insightful and interactive Power BI dashboard.
